@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Multimeter ka upyog kis ke liye hota hai?",
+    "options": [
+      "Voltage measure karne ke liye",
+      "Screw tighten karne ke liye",
+      "Welding ke liye",
+      "Circuit breaker ko repair karne ke liye"
+    ],
+    "answer": "Voltage measure karne ke liye"
+  },
+  {
+    "question": "Fuse ka mukhya kaam kya hai?",
+    "options": [
+      "Current badhana",
+      "Circuit ko overload se bachana",
+      "Switching karna",
+      "Voltage kam karna"
+    ],
+    "answer": "Circuit ko overload se bachana"
+  }
+]
